@@ -1,0 +1,9 @@
+{
+	"name": "adfprofactoryjess",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e3f3a25-0470-4ea6-b50a-1fe5569540c4",
+		"tenantId": "6e0eb70b-408a-43a1-aa52-49b6ae58286b"
+	}
+}
